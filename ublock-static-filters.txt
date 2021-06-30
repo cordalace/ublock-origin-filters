@@ -21,3 +21,9 @@ stackoverflow.com##.js-dismissable-hero
 
 ! 2021-06-30 https://gosuslugi.ru
 gosuslugi.ru##.pso-header
+
+! 2021-06-30 https://habr.com
+habr.com###TMpanel
+habr.com##div#widget.default-block_sidebar
+habr.com###twitter-stream
+habr.com###fb-like
