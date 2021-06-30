@@ -1,0 +1,11 @@
+! 2021-06-24 https://nextcloud.com
+nextcloud.com##.alert--no-js.alert
+
+! 2021-06-25 https://www.rutoken.ru
+www.rutoken.ru##.cookie
+
+! disable cookie policy banner on Stack Exchange serives
+stackexchange.com##.js-consent-banner
+superuser.com##.js-consent-banner
+stackoverflow.com##.js-consent-banner
+
