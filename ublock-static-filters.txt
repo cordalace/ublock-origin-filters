@@ -4,8 +4,17 @@ nextcloud.com##.alert--no-js.alert
 ! 2021-06-25 https://www.rutoken.ru
 www.rutoken.ru##.cookie
 
-! disable cookie policy banner on Stack Exchange serives
+! disable cookie policy banner on Stack Exchange sites
 stackexchange.com##.js-consent-banner
 superuser.com##.js-consent-banner
 stackoverflow.com##.js-consent-banner
 
+! hide "Stack Overflow for Teams" promo on Stack Exchange sites
+stackexchange.com##.overflow-hidden
+superuser.com##.overflow-hidden
+stackoverflow.com##.overflow-hidden
+
+! hide top login invitation block
+stackexchange.com##.js-dismissable-hero
+superuser.com##.js-dismissable-hero
+stackoverflow.com##.js-dismissable-hero
