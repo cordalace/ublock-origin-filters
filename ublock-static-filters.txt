@@ -1,9 +1,3 @@
-! 2021-06-24 https://nextcloud.com
-nextcloud.com##.alert--no-js.alert
-
-! 2021-06-25 https://www.rutoken.ru
-www.rutoken.ru##.cookie
-
 ! disable cookie policy banner on Stack Exchange sites
 stackexchange.com##.js-consent-banner
 superuser.com##.js-consent-banner
@@ -14,16 +8,37 @@ stackexchange.com##.overflow-hidden
 superuser.com##.overflow-hidden
 stackoverflow.com##.overflow-hidden
 
-! hide top login invitation block
+! hide top login invitation block on Stack Exchange sites
 stackexchange.com##.js-dismissable-hero
 superuser.com##.js-dismissable-hero
 stackoverflow.com##.js-dismissable-hero
 
-! 2021-06-30 https://gosuslugi.ru
-gosuslugi.ru##.pso-header
+! hide "The Overflow Blog" on Stack Exchange sites
+stackexchange.com##.s-sidebarwidget
+superuser.com##.s-sidebarwidget
+stackoverflow.com##.s-sidebarwidget
+
+! hide left bottom notice block on Stack Exchange sites
+stackexchange.com##.js-notice-sidebar-popover
+superuser.com##.js-notice-sidebar-popover
+stackoverflow.com##.js-notice-sidebar-popover
+
+! hide top announcement block on Stack Exchange sites
+stackexchange.com##.js-announcement-banner
+superuser.com##.js-announcement-banner
+stackoverflow.com##.js-announcement-banner
 
 ! 2021-06-30 https://habr.com
 habr.com###TMpanel
 habr.com##div#widget.default-block_sidebar
 habr.com###twitter-stream
 habr.com###fb-like
+
+! 2021-06-30 https://gosuslugi.ru
+gosuslugi.ru##.pso-header
+
+! 2021-06-24 https://nextcloud.com
+nextcloud.com##.alert--no-js.alert
+
+! 2021-06-25 https://www.rutoken.ru
+www.rutoken.ru##.cookie
