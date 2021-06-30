@@ -18,3 +18,6 @@ stackoverflow.com##.overflow-hidden
 stackexchange.com##.js-dismissable-hero
 superuser.com##.js-dismissable-hero
 stackoverflow.com##.js-dismissable-hero
+
+! 2021-06-30 https://gosuslugi.ru
+gosuslugi.ru##.pso-header
