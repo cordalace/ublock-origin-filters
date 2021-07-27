@@ -2,36 +2,43 @@
 stackexchange.com##.js-consent-banner
 superuser.com##.js-consent-banner
 stackoverflow.com##.js-consent-banner
+askubuntu.com##.js-consent-banner
 
 ! hide "Stack Overflow for Teams" promo on Stack Exchange sites
 stackexchange.com##.overflow-hidden
 superuser.com##.overflow-hidden
 stackoverflow.com##.overflow-hidden
+askubuntu.com##.overflow-hidden
 
 ! hide top login invitation block on Stack Exchange sites
 stackexchange.com##.js-dismissable-hero
 superuser.com##.js-dismissable-hero
 stackoverflow.com##.js-dismissable-hero
+askubuntu.com##.js-dismissable-hero
 
 ! hide one more header on Stack Exchange sites
 stackexchange.com##.site-header
 superuser.com##.site-header
 stackoverflow.com##.site-header
+askubuntu.com##.site-header
 
 ! hide "The Overflow Blog" on Stack Exchange sites
 stackexchange.com##.s-sidebarwidget
 superuser.com##.s-sidebarwidget
 stackoverflow.com##.s-sidebarwidget
+askubuntu.com##.s-sidebarwidget
 
 ! hide left bottom notice block on Stack Exchange sites
 stackexchange.com##.js-notice-sidebar-popover
 superuser.com##.js-notice-sidebar-popover
 stackoverflow.com##.js-notice-sidebar-popover
+askubuntu.com##.js-notice-sidebar-popover
 
 ! hide top announcement block on Stack Exchange sites
 stackexchange.com##.js-announcement-banner
 superuser.com##.js-announcement-banner
 stackoverflow.com##.js-announcement-banner
+askubuntu.com##.js-announcement-banner
 
 ! 2021-06-30 https://habr.com
 habr.com###TMpanel
