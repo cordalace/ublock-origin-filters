@@ -54,3 +54,12 @@ nextcloud.com##.alert--no-js.alert
 
 ! 2021-06-25 https://www.rutoken.ru
 www.rutoken.ru##.cookie
+
+! 2022-02-17 https://cian.ru
+cian.ru##[data-name="NewbuildingEntryResaleBlock"]
+cian.ru##[data-name="Suggestions"]
+cian.ru##[data-testid="realtor_request_trap"]
+cian.ru##[data-name="BannerServicePlaceInternal"]
+cian.ru##[class^="push_manager-notification"]
+cian.ru##[class^="push_manager-notification"]
+cian.ru##[class*="--special-promos--"]
