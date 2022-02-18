@@ -57,6 +57,7 @@ www.rutoken.ru##.cookie
 
 ! 2022-02-17 https://cian.ru
 cian.ru##[data-name="NewbuildingEntryResaleBlock"]
+cian.ru##[data-name="NewbuildingSimilarOffersBlock"]
 cian.ru##[data-name="Suggestions"]
 cian.ru##[data-testid="realtor_request_trap"]
 cian.ru##[data-name="BannerServicePlaceInternal"]
