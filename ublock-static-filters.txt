@@ -66,3 +66,11 @@ cian.ru##[class^="push_manager-notification"]
 cian.ru##[class^="push_manager-notification"]
 cian.ru##[class*="--special-promos--"]
 cian.ru##[class*="--fullscreen-canvas--"]
+
+! 2022-02-19 https://market.yandex.ru
+chat.s3.yandex.net
+uxfeedback-cdn.s3.yandex.net
+yastatic.net/market-export/_/h/market-gtag
+fenek.market.yandex.ru
+adfstat.yandex.ru
+vendors-public.s3.yandex.net
