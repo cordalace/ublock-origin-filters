@@ -79,3 +79,4 @@ vendors-public.s3.yandex.net
 kinopoisk.ru##[class*="toaster-container"]
 kinopoisk.ru/handler_mustsee_ajax.php
 kinopoisk.ru##iframe
+kinopoisk.ru##[class*="adBlockWarningRoot"]
