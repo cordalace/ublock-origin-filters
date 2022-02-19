@@ -74,3 +74,8 @@ yastatic.net/market-export/_/h/market-gtag
 fenek.market.yandex.ru
 adfstat.yandex.ru
 vendors-public.s3.yandex.net
+
+! 2022-02-19 https://kinopoisk.ru
+kinopoisk.ru##[class*="toaster-container"]
+kinopoisk.ru/handler_mustsee_ajax.php
+kinopoisk.ru##iframe
