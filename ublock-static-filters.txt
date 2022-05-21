@@ -77,3 +77,4 @@ vendors-public.s3.yandex.net
 
 ! 2022-02-19 https://kinopoisk.ru
 kinopoisk.ru##[class*="adBlockWarningRoot"]
+kinopoisk.ru##[class*="styles_rootRendered"]
