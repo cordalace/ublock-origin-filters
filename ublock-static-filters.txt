@@ -74,6 +74,7 @@ yastatic.net/market-export/_/h/market-gtag
 fenek.market.yandex.ru
 adfstat.yandex.ru
 vendors-public.s3.yandex.net
+market.yandex.ru##div[data-apiary-widget-name="@marketfront/OffersGalleryIncut"]
 
 ! 2022-02-19 https://kinopoisk.ru
 kinopoisk.ru##[class*="adBlockWarningRoot"]
