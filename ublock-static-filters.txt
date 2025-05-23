@@ -79,3 +79,17 @@ market.yandex.ru##div[data-apiary-widget-name="@marketfront/OffersGalleryIncut"]
 ! 2022-02-19 https://kinopoisk.ru
 kinopoisk.ru##[class*="adBlockWarningRoot"]
 kinopoisk.ru##[class*="styles_rootRendered"]
+
+! 2024-07-11 https://www.eapteka.ru
+www.eapteka.ru##[data-neon-banner="top_spanning"]
+www.eapteka.ru##div.banner-block
+www.eapteka.ru##[data-neon-banner="social_main"]
+www.eapteka.ru##.main--promo-articles
+www.eapteka.ru##.feedbackSearch
+www.eapteka.ru##.add-another__block
+www.eapteka.ru##.recommended-products
+
+! 2025-05-23 https://pikabu.ru
+pikabu.ru##.feed-games-carousel
+pikabu.ru##[data-author-name*="pikabu."]
+
